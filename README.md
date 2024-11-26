@@ -130,8 +130,6 @@ ik_service/
 ├── src/
 │   ├── ik_client.cpp
 │   └── ik_service.cpp
-├── include/
-│   └── ik_service/
 ├── package.xml
 └── README.md
 ```
